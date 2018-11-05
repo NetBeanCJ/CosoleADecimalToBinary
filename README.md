@@ -1,0 +1,2 @@
+# CosoleADecimalToBinary
+School exercise 
